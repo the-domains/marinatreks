@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.05531686
+color:
+  saturation: 0.3082156
+  lightness: 0.8206897
+  brandStrength: 0.8994483
+  rhythmicContrast: 0.9951545
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: MarinaTreks
